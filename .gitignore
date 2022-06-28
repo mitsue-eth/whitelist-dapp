@@ -4,11 +4,6 @@
 /hardhat/.env
 /hardhat/.env*.local
 /hardhat/node_modules
-/frontend/node_modules
-/frontend/.next/
-/frontend/out/
-/frontend/build
-/frontend/.vercel
 
 # dependencies
 /node_modules
